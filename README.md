@@ -1,9 +1,9 @@
-# 📝 To-Do List Website
+# To-Do List Website
 
 A simple and functional **To-Do List web application** built using **PHP, MySQL, HTML, CSS, and Bootstrap**. This project allows users to create, edit, and delete tasks using a clean and responsive interface.
 
 
-## 🚀 Features
+## Features
 
 -  Add new tasks  
 - Edit existing tasks  
@@ -12,7 +12,7 @@ A simple and functional **To-Do List web application** built using **PHP, MySQL,
 - Responsive UI using Bootstrap  
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend:
 - HTML5
@@ -27,7 +27,7 @@ A simple and functional **To-Do List web application** built using **PHP, MySQL,
 - MySQL
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 todo-list/
@@ -46,7 +46,7 @@ todo-list/
 ```
 
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### 1. Download or Extract Project
 
@@ -72,7 +72,7 @@ Open your control panel and start:
    ```
 4. Click **Go**
 
-✔ This will automatically create:
+This will automatically create:
 - Database: `todo_db`
 - Table: `notes`
 - Sample data (optional)
@@ -96,7 +96,7 @@ http://localhost/todo-list/
 ```
 
 
-## 📸 How It Works
+## How It Works
 
 - The homepage displays all tasks from the database.
 - You can add new tasks using the form.
