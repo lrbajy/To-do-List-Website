@@ -104,4 +104,7 @@ http://localhost/todo-list/
 - All actions are handled using PHP and MySQL.
 
 
-   
+## License
+
+This project is for educational purposes only.
+
